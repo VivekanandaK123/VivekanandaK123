@@ -26,17 +26,6 @@
   and I'm happiest when I'm learning something new and turning it into something that works.
 </p>
 
-<div align="center">
-
-```text
- ┌──────────────────────────────────────────────────────────┐
- │  focus     →  Software Development · AI/ML · Backend     │
- │  also      →  Full-Stack · DSA · wherever CS leads       │
- │  mindset   →  learn → build → break → improve → repeat   │
- └──────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 <!-- ═══════════════  TECH STACK  ═══════════════ -->
 <h2 align="center">⌬ Tech Stack</h2>
